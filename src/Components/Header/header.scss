@@ -1,0 +1,29 @@
+.header{
+    padding-top: 1%;
+
+    .content{
+        ul{
+            display: flex;
+            list-style: none;
+            li{
+                margin-right: 20px;
+                a{
+                    text-decoration: none;
+                    color: #1E3E62;
+                }
+            }
+        }
+    }
+}
+
+@media  screen and (max-width: 936px) and (min-width: 360px){
+    .header{
+        .content{
+            ul{
+                li{
+                    margin-right: 10px;
+                }
+            }
+        }
+    }
+}
