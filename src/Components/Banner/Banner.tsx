@@ -6,10 +6,10 @@ import CheckIcon from '@mui/icons-material/Check';
 
 const teachs = [
   {
-    text: 'Toshkent axborot texnologiyalari universiteti - 2017 - 2021 - Bakalavr'
+    text: 'Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti - 2017 - 2021 - Bakalavr'
   },
   {
-    text: 'Toshkent axborot texnologiyalari universiteti - 2021 - 2023 - Magistratura'
+    text: 'Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti - 2021 - 2023 - Magistratura'
   },
   {
     text: 'Toshkent irrigatsiya va qishloq xo‘jaligini mexanizatsiyalash muhandislari instituti - 2024 - Doktorantura'
