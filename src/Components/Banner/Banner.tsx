@@ -12,7 +12,7 @@ const teachs = [
     text: 'Toshkent axborot texnologiyalari universiteti - 2021 - 2023 - Magistratura'
   },
   {
-    text: 'Irrigatsiya instituti - 2024 - Doktorantura'
+    text: 'Toshkent irrigatsiya va qishloq xo‘jaligini mexanizatsiyalash muhandislari instituti - 2024 - Doktorantura'
   },
   {
     text: "Mutaxassislik: Ekonomist"
